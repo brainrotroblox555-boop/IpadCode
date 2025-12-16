@@ -205,3 +205,9 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+.local/lib/python3.12/site-packages/pwnlib/shellcraft/templates/aarch64/android/syscalls/
+.local/lib/python3.12/site-packages/pwnlib/shellcraft/templates/aarch64/linux/syscalls/
+.local/lib/python3.12/site-packages/pwnlib/shellcraft/templates/amd64/android/syscalls/
+.local/lib/python3.12/site-packages/pwnlib/shellcraft/templates/
+
